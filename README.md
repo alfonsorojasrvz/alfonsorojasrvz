@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/alfonsorojasrvz/count.svg" />
 </p>
+
+-->
+
